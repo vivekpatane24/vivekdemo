@@ -1,3 +1,3 @@
 # vivekdemo
 this is my first git hub project
-directed by vivek
+directed by vivek patane
